@@ -282,7 +282,7 @@ img{border: none;}
 /* FEATURE SECTION */
 /*--------------------*/
 
-#featuresSection {
+#seguridad {
   background-color: #FFFFFF;
   display: inline;
   float: left;
@@ -719,20 +719,20 @@ img{border: none;}
 /* TESTIMONIAL */
 /*--------------------*/
 
-#testimonila {
+#aboutus {
   background-color: #FFFFFF;
   display: inline;
   float: left;
   padding: 100px 0 150px;
   width: 100%;
 }
-.testimonila_area{
+.aboutus_area{
   float: left;
   display: inline;
   width: 100%;
   text-align: center;
 }
-.testimonila_area > p {
+.aboutus_area > p {
   color: #606060; 
   font-size: 20px;
   margin-top: 25px;
